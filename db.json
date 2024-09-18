@@ -1,4 +1,5 @@
-[{"id":1,"email":"dravelus0@dagondesign.com","password":"rC9&q'%9*S","name":"Dyann Ravelus","phone":"4878620229","id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ"},
+{
+  companies: [{"id":1,"email":"dravelus0@dagondesign.com","password":"rC9&q'%9*S","name":"Dyann Ravelus","phone":"4878620229","id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ"},
 {"id":2,"email":"lrings1@google.ru","password":"sW9+UT_H(I","name":"Llywellyn Rings","phone":"4212929482","id_company":"01J82TFE9HY019KANV2K6ZAPQ9"},
 {"id":3,"email":"eyesenin2@symantec.com","password":"dY7$oRpcXZtNl","name":"Essie Yesenin","phone":"3109489948","id_company":"01J82TFE9J47KCA0NDG2XRWF5F"},
 {"id":4,"email":"mbasset3@flickr.com","password":"dN7$8$8#pk?","name":"Monique Basset","phone":"6431605481","id_company":"01J82TFE9KTYJ7YK70AKAD21YE"},
@@ -18,3 +19,4 @@
 {"id":18,"email":"ebatterbeeh@msu.edu","password":"iN4~_?)|8QFE1'2x","name":"Emlen Batterbee","phone":"2609214687","id_company":"01J82TFE9VXJ121JFY6V6BTM1A"},
 {"id":19,"email":"gpetrici@salon.com","password":"lE2=F+Ezd","name":"Granthem Petric","phone":"2827422267","id_company":"01J82TFE9V2AEJDTWB36VW66ZR"},
 {"id":20,"email":"pmcbeanj@elegantthemes.com","password":"eC9~j,j{Q{v*4","name":"Priscella McBean","phone":"6506424142","id_company":"01J82TFE9W36B22CQ37Y91CG7S"}]
+}
