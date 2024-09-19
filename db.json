@@ -1,191 +1,193 @@
 {
-    "services": [{
-    "id": 1,
-    "nombreContrato": "Desarrollo de Software",
-    "fechaInicio": "2024-01-15T00:00:00Z",
-    "fechaFin": "2024-12-15T00:00:00Z",
-    "horas": 0
-  },
-  {
-    "id": 2,
-    "nombreContrato": "Sistema de Nómina",
-    "fechaInicio": "2024-02-01T00:00:00Z",
-    "fechaFin": "2024-05-01T00:00:00Z",
-    "horas": 300
-  },
-  {
-    "id": 3,
-    "nombreContrato": "Portal de Auto-servicio para Empleados",
-    "fechaInicio": "2024-03-10T00:00:00Z",
-    "fechaFin": "2024-09-10T00:00:00Z",
-    "horas": 400
-  },
-  {
-    "id": 4,
-    "nombreContrato": "Consultoría de Recursos Humanos",
-    "fechaInicio": "2024-04-01T00:00:00Z",
-    "fechaFin": "2024-10-01T00:00:00Z",
-    "horas": 250
-  },
-  {
-    "id": 5,
-    "nombreContrato": "Desarrollo de Plataforma E-learning",
-    "fechaInicio": "2024-05-15T00:00:00Z",
-    "fechaFin": "2024-11-15T00:00:00Z",
-    "horas": 600
-  }],
-    "users": [
-        {
-            "id": 1,
-            "email": "dravelus0@dagondesign.com",
-            "password": "rC9&q'%9*S",
-            "name": "Dyann Ravelus",
-            "phone": "4878620229",
-            "id_company": "01J82TFE9HZ3J7ENG0PFZ4JMQQ",
-        },
-        {
-            "id": 2,
-            "email": "lrings1@google.ru",
-            "password": "sW9+UT_H(I",
-            "name": "Llywellyn Rings",
-            "phone": "4212929482",
-            "id_company": "01J82TFE9HY019KANV2K6ZAPQ9"
-        },
-        {
-            "id": 3,
-            "email": "eyesenin2@symantec.com",
-            "password": "dY7$oRpcXZtNl",
-            "name": "Essie Yesenin",
-            "phone": "3109489948",
-            "id_company": "01J82TFE9J47KCA0NDG2XRWF5F"
-        },
-        {
-            "id": 4,
-            "email": "mbasset3@flickr.com",
-            "password": "dN7$8$8#pk?",
-            "name": "Monique Basset",
-            "phone": "6431605481",
-            "id_company": "01J82TFE9KTYJ7YK70AKAD21YE"
-        },
-        {
-            "id": 5,
-            "email": "jpleasance4@bravesites.com",
-            "password": "zU2*x(2X>?IZUF%8",
-            "name": "Jaclyn Pleasance",
-            "phone": "5421528102",
-            "id_company": "01J82TFE9K4WMDQ082EKR7SMEV"
-        },
-        {
-            "id": 6,
-            "email": "ykinnier5@wisc.edu",
-            "password": "wX6,x/k+",
-            "name": "Yank Kinnier",
-            "phone": "8836564664",
-            "id_company": "01J82TFE9M8AQA24W1RX1FHK88"
-        },
-        {
-            "id": 7,
-            "email": "gennever6@uol.com.br",
-            "password": "oB1!_gT#f/_J",
-            "name": "Ginelle Ennever",
-            "phone": "7884963623",
-            "id_company": "01J82TFE9M8CHFQ542NG47JS32"
-        },
-        {
-            "id": 8,
-            "email": "mcoatham7@unesco.org",
-            "password": "hD1(7!y1g",
-            "name": "Myrle Coatham",
-            "phone": "4261582863",
-            "id_company": "01J82TFE9NYJMKWGKZJND4E567"
-        },
-        {
-            "id": 9,
-            "email": "cswaile8@cdc.gov",
-            "password": "zI7~3S&7FKW",
-            "name": "Chilton Swaile",
-            "phone": "4175268905",
-            "id_company": "01J82TFE9PA6R2DTPNMXJ3RX4F"
-        },
-        {
-            "id": 10,
-            "email": "vduckinfield9@netvibes.com",
-            "password": "gY1*DzZ>b+L",
-            "name": "Vonnie Duckinfield",
-            "phone": "2921821674",
-            "id_company": "01J82TFE9PZ0E5MGTKAAK7MMXQ"
-        },
-        {
-            "id": 11,
-            "email": "jlicaria@kickstarter.com",
-            "password": "iG4!)7$MI",
-            "name": "Jana Licari",
-            "phone": "7045576084",
-            "id_company": "01J82TFE9QR9M68Q9ASXV29XEK"
-        },
-        {
-            "id": 12,
-            "email": "fmaclennanb@woothemes.com",
-            "password": "iN4'ysM=N",
-            "name": "Freddie MacLennan",
-            "phone": "6941247981",
-            "id_company": "01J82TFE9QSCMDDHKYHDSTV27F"
-        },
-        {
-            "id": 13,
-            "email": "adic@fc2.com",
-            "password": "bE7/$pVjL|Q=Eq%G",
-            "name": "Armin Di Bartolomeo",
-            "phone": "3021089071",
-            "id_company": "01J82TFE9RPZQEZ16RGV55FK50"
-        },
-        {
-            "id": 14,
-            "email": "nhovendend@chicagotribune.com",
-            "password": "eW1)yWf.4=vb)h6",
-            "name": "Niels Hovenden",
-            "phone": "8234451419",
-            "id_company": "01J82TFE9SFXV65SEKR4M3QVE8"
-        },
-        {
-            "id": 15,
-            "email": "ddrancee@cam.ac.uk",
-            "password": "qA1>Q}rU",
-            "name": "Dot Drance",
-            "phone": "8814467276",
-            "id_company": "01J82TFE9SXYNEJ3WQFGXCKHEE"
-        },
-        {
-            "id": 16,
-            "email": "mroglierif@moonfruit.com",
-            "password": "bD8\\9/x~)h?B%~{j",
-            "name": "Mirabelle Roglieri",
-            "phone": "4447460090",
-            "id_company": "01J82TFE9TZPWPPJS8Y1C3HAF2"
-        },
-        {
-            "id": 17,
-            "email": "credleyg@joomla.org",
-            "password": "pU2>u4m2",
-            "name": "Colleen Redley",
-            "phone": "1253298130",
-            "id_company": "01J82TFE9TVHNZHHBJ0TGDX708"
-        },
-        {
-            "id": 19,
-            "email": "gpetrici@salon.com",
-            "password": "lE2=F+Ezd",
-            "name": "Granthem Petric",
-            "phone": "2827422267",
-            "id_company": "01J82TFE9V2AEJDTWB36VW66ZR"
-        },
-        {
-            "id": 20,
-            "email": "pmcbeanj@elegantthemes.com",
-            "password": "eC9~j,j{Q{v*4",
-            "name": "Priscella McBean",
-            "phone": "6506424142",
-            "id_company": "01J82TFE9W36B22CQ37Y91CG7S"
-        }
-    ]
+   "services":[
+      {
+         "id":1,
+         "nombreContrato":"Desarrollo de Software",
+         "fechaInicio":"2024-01-15T00:00:00Z",
+         "fechaFin":"2024-12-15T00:00:00Z",
+         "horas":0
+      },
+      {
+         "id":2,
+         "nombreContrato":"Sistema de Nómina",
+         "fechaInicio":"2024-02-01T00:00:00Z",
+         "fechaFin":"2024-05-01T00:00:00Z",
+         "horas":300
+      },
+      {
+         "id":3,
+         "nombreContrato":"Portal de Auto-servicio para Empleados",
+         "fechaInicio":"2024-03-10T00:00:00Z",
+         "fechaFin":"2024-09-10T00:00:00Z",
+         "horas":400
+      },
+      {
+         "id":4,
+         "nombreContrato":"Consultoría de Recursos Humanos",
+         "fechaInicio":"2024-04-01T00:00:00Z",
+         "fechaFin":"2024-10-01T00:00:00Z",
+         "horas":250
+      },
+      {
+         "id":5,
+         "nombreContrato":"Desarrollo de Plataforma E-learning",
+         "fechaInicio":"2024-05-15T00:00:00Z",
+         "fechaFin":"2024-11-15T00:00:00Z",
+         "horas":600
+      }
+   ],
+   "users":[
+      {
+         "id":1,
+         "email":"dravelus0@dagondesign.com",
+         "password":"rC9&q'%9*S",
+         "name":"Dyann Ravelus",
+         "phone":"4878620229",
+         "id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ"
+      },
+      {
+         "id":2,
+         "email":"lrings1@google.ru",
+         "password":"sW9+UT_H(I",
+         "name":"Llywellyn Rings",
+         "phone":"4212929482",
+         "id_company":"01J82TFE9HY019KANV2K6ZAPQ9"
+      },
+      {
+         "id":3,
+         "email":"eyesenin2@symantec.com",
+         "password":"dY7$oRpcXZtNl",
+         "name":"Essie Yesenin",
+         "phone":"3109489948",
+         "id_company":"01J82TFE9J47KCA0NDG2XRWF5F"
+      },
+      {
+         "id":4,
+         "email":"mbasset3@flickr.com",
+         "password":"dN7$8$8#pk?",
+         "name":"Monique Basset",
+         "phone":"6431605481",
+         "id_company":"01J82TFE9KTYJ7YK70AKAD21YE"
+      },
+      {
+         "id":5,
+         "email":"jpleasance4@bravesites.com",
+         "password":"zU2*x(2X>?IZUF%8",
+         "name":"Jaclyn Pleasance",
+         "phone":"5421528102",
+         "id_company":"01J82TFE9K4WMDQ082EKR7SMEV"
+      },
+      {
+         "id":6,
+         "email":"ykinnier5@wisc.edu",
+         "password":"wX6,x/k+",
+         "name":"Yank Kinnier",
+         "phone":"8836564664",
+         "id_company":"01J82TFE9M8AQA24W1RX1FHK88"
+      },
+      {
+         "id":7,
+         "email":"gennever6@uol.com.br",
+         "password":"oB1!_gT#f/_J",
+         "name":"Ginelle Ennever",
+         "phone":"7884963623",
+         "id_company":"01J82TFE9M8CHFQ542NG47JS32"
+      },
+      {
+         "id":8,
+         "email":"mcoatham7@unesco.org",
+         "password":"hD1(7!y1g",
+         "name":"Myrle Coatham",
+         "phone":"4261582863",
+         "id_company":"01J82TFE9NYJMKWGKZJND4E567"
+      },
+      {
+         "id":9,
+         "email":"cswaile8@cdc.gov",
+         "password":"zI7~3S&7FKW",
+         "name":"Chilton Swaile",
+         "phone":"4175268905",
+         "id_company":"01J82TFE9PA6R2DTPNMXJ3RX4F"
+      },
+      {
+         "id":10,
+         "email":"vduckinfield9@netvibes.com",
+         "password":"gY1*DzZ>b+L",
+         "name":"Vonnie Duckinfield",
+         "phone":"2921821674",
+         "id_company":"01J82TFE9PZ0E5MGTKAAK7MMXQ"
+      },
+      {
+         "id":11,
+         "email":"jlicaria@kickstarter.com",
+         "password":"iG4!)7$MI",
+         "name":"Jana Licari",
+         "phone":"7045576084",
+         "id_company":"01J82TFE9QR9M68Q9ASXV29XEK"
+      },
+      {
+         "id":12,
+         "email":"fmaclennanb@woothemes.com",
+         "password":"iN4'ysM=N",
+         "name":"Freddie MacLennan",
+         "phone":"6941247981",
+         "id_company":"01J82TFE9QSCMDDHKYHDSTV27F"
+      },
+      {
+         "id":13,
+         "email":"adic@fc2.com",
+         "password":"bE7/$pVjL|Q=Eq%G",
+         "name":"Armin Di Bartolomeo",
+         "phone":"3021089071",
+         "id_company":"01J82TFE9RPZQEZ16RGV55FK50"
+      },
+      {
+         "id":14,
+         "email":"nhovendend@chicagotribune.com",
+         "password":"eW1)yWf.4=vb)h6",
+         "name":"Niels Hovenden",
+         "phone":"8234451419",
+         "id_company":"01J82TFE9SFXV65SEKR4M3QVE8"
+      },
+      {
+         "id":15,
+         "email":"ddrancee@cam.ac.uk",
+         "password":"qA1>Q}rU",
+         "name":"Dot Drance",
+         "phone":"8814467276",
+         "id_company":"01J82TFE9SXYNEJ3WQFGXCKHEE"
+      },
+      {
+         "id":16,
+         "email":"mroglierif@moonfruit.com",
+         "password":"bD8\\9/x~)h?B%~{j",
+         "name":"Mirabelle Roglieri",
+         "phone":"4447460090",
+         "id_company":"01J82TFE9TZPWPPJS8Y1C3HAF2"
+      },
+      {
+         "id":17,
+         "email":"credleyg@joomla.org",
+         "password":"pU2>u4m2",
+         "name":"Colleen Redley",
+         "phone":"1253298130",
+         "id_company":"01J82TFE9TVHNZHHBJ0TGDX708"
+      },
+      {
+         "id":19,
+         "email":"gpetrici@salon.com",
+         "password":"lE2=F+Ezd",
+         "name":"Granthem Petric",
+         "phone":"2827422267",
+         "id_company":"01J82TFE9V2AEJDTWB36VW66ZR"
+      },
+      {
+         "id":20,
+         "email":"pmcbeanj@elegantthemes.com",
+         "password":"eC9~j,j{Q{v*4",
+         "name":"Priscella McBean",
+         "phone":"6506424142",
+         "id_company":"01J82TFE9W36B22CQ37Y91CG7S"
+      }
+   ]
 }
