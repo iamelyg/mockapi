@@ -193,38 +193,38 @@
    "clients":[
       {
          "id":1,
-         "nombreEmpresa":"Tecnología Avanzada S.A.",
-         "nombreCorto":"TechAv",
-         "activo":true,
-         "numeroRUC":"12345678901"
+         "companyName":"Tecnología Avanzada S.A.",
+         "shortName":"TechAv",
+         "isActive":true,
+         "taxNumber":"12345678901"
       },
       {
          "id":2,
-         "nombreEmpresa":"Soluciones Informáticas S.R.L.",
-         "nombreCorto":"SolInf",
-         "activo":false,
-         "numeroRUC":"98765432100"
+         "companyName":"Soluciones Informáticas S.R.L.",
+         "shortName":"SolInf",
+         "isActive":false,
+         "taxNumber":"98765432100"
       },
       {
          "id":3,
-         "nombreEmpresa":"Desarrollo de Software Innovador",
-         "nombreCorto":"SoftInn",
-         "activo":true,
-         "numeroRUC":"12312312312"
+         "companyName":"Desarrollo de Software Innovador",
+         "shortName":"SoftInn",
+         "isActive":true,
+         "taxNumber":"12312312312"
       },
       {
          "id":4,
-         "nombreEmpresa":"Consultoría Empresarial",
-         "nombreCorto":"ConsEmp",
-         "activo":true,
-         "numeroRUC":"32132132132"
+         "companyName":"Consultoría Empresarial",
+         "shortName":"ConsEmp",
+         "isActive":true,
+         "taxNumber":"32132132132"
       },
       {
          "id":5,
-         "nombreEmpresa":"E-learning Solutions",
-         "nombreCorto":"Elearn",
-         "activo":false,
-         "numeroRUC":"45645645645"
+         "companyName":"E-learning Solutions",
+         "shortName":"Elearn",
+         "isActive":false,
+         "taxNumber":"45645645645"
       }
    ]
 }
