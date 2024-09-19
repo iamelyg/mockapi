@@ -43,11 +43,11 @@
          "password":"rC9&q'%9*S",
          "name":"Dyann Ravelus",
          "phone":"4878620229",
-         "id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Recursos Humanos",
-         "assigned_manager":"Ana Gómez",
-         "is_active":true,
-         "user_type":"gestor"
+         "assignedManager":"Ana Gómez",
+         "isActive":true,
+         "userType":"gestor"
       },
       {
          "id":2,
@@ -55,11 +55,11 @@
          "password":"xA4#pL&2$W",
          "name":"Michael Johnson",
          "phone":"4878620245",
-         "id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Finanzas",
-         "assigned_manager":"Juan Pérez",
-         "is_active":true,
-         "user_type":"control"
+         "assignedManager":"Juan Pérez",
+         "isActive":true,
+         "userType":"control"
       },
       {
          "id":3,
@@ -67,35 +67,95 @@
          "password":"qT5#kR(8*H",
          "name":"Jessica Smith",
          "phone":"4878620250",
-         "id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Operaciones",
-         "assigned_manager":"Luis Rodríguez",
-         "is_active":false,
-         "user_type":"operador"
+         "assignedManager":"Luis Rodríguez",
+         "isActive":false,
+         "userType":"operador"
       },
       {
          "id":4,
-         "email":"awilliams3@companymail.com",
-         "password":"uV2!mZ7$K9",
-         "name":"Amy Williams",
-         "phone":"4878620255",
-         "id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "email":"jdoe3@companymail.com",
+         "password":"yR6&jM^1*U",
+         "name":"John Doe",
+         "phone":"4878620234",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"TI",
-         "assigned_manager":"Carlos Hernández",
-         "is_active":true,
-         "user_type":"gestor"
+         "assignedManager":"Pedro Martínez",
+         "isActive":true,
+         "userType":"gestor"
       },
       {
          "id":5,
-         "email":"ldavis4@companymail.com",
-         "password":"oB1!rJ6#Q2",
-         "name":"Liam Davis",
-         "phone":"4878620260",
-         "id_company":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "email":"arivera4@companymail.com",
+         "password":"zL2$wN#3*D",
+         "name":"Alice Rivera",
+         "phone":"4878620211",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Marketing",
-         "assigned_manager":"Sofía Martínez",
-         "is_active":true,
-         "user_type":"operador"
+         "assignedManager":"Clara Sánchez",
+         "isActive":false,
+         "userType":"control"
+      },
+      {
+         "id":6,
+         "email":"bwilliams5@companymail.com",
+         "password":"uV3#mX(9*P",
+         "name":"Ben Williams",
+         "phone":"4878620298",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "area":"Logística",
+         "assignedManager":"Laura Torres",
+         "isActive":true,
+         "userType":"operador"
+      },
+      {
+         "id":7,
+         "email":"jwhite6@companymail.com",
+         "password":"oE5&hR(2*K",
+         "name":"Jessica White",
+         "phone":"4878620277",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "area":"Ventas",
+         "assignedManager":"Carlos Romero",
+         "isActive":true,
+         "userType":"gestor"
+      },
+      {
+         "id":8,
+         "email":"tgreen7@companymail.com",
+         "password":"lK8%nQ&1#M",
+         "name":"Tom Green",
+         "phone":"4878620266",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "area":"Atención al Cliente",
+         "assignedManager":"Sofía García",
+         "isActive":false,
+         "userType":"control"
+      },
+      {
+         "id":9,
+         "email":"cgarcia8@companymail.com",
+         "password":"mB7*eF$2&T",
+         "name":"Carlos García",
+         "phone":"4878620289",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "area":"Administración",
+         "assignedManager":"Gabriel Ruiz",
+         "isActive":true,
+         "userType":"operador"
+      },
+      {
+         "id":10,
+         "email":"kthompson9@companymail.com",
+         "password":"pN6$wL(4*R",
+         "name":"Karen Thompson",
+         "phone":"4878620244",
+         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
+         "area":"Compras",
+         "assignedManager":"Raúl Fernández",
+         "isActive":false,
+         "userType":"gestor"
       }
    ],
    "clients":[
