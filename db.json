@@ -2,38 +2,38 @@
    "services":[
       {
          "id":1,
-         "nombreContrato":"Desarrollo de Software",
-         "fechaInicio":"2024-01-15T00:00:00Z",
-         "fechaFin":"2024-12-15T00:00:00Z",
-         "horas":0
+         "service":"Desarrollo de Software",
+         "startDate":"2024-01-15T00:00:00Z",
+         "endDate":"2024-12-15T00:00:00Z",
+         "hours":0
       },
       {
          "id":2,
-         "nombreContrato":"Sistema de Nómina",
-         "fechaInicio":"2024-02-01T00:00:00Z",
-         "fechaFin":"2024-05-01T00:00:00Z",
-         "horas":300
+         "service":"Sistema de Nómina",
+         "startDate":"2024-02-01T00:00:00Z",
+         "endDate":"2024-05-01T00:00:00Z",
+         "hours":300
       },
       {
          "id":3,
-         "nombreContrato":"Portal de Auto-servicio para Empleados",
-         "fechaInicio":"2024-03-10T00:00:00Z",
-         "fechaFin":"2024-09-10T00:00:00Z",
-         "horas":400
+         "service":"Portal de Auto-servicio para Empleados",
+         "startDate":"2024-03-10T00:00:00Z",
+         "endDate":"2024-09-10T00:00:00Z",
+         "hours":400
       },
       {
          "id":4,
-         "nombreContrato":"Consultoría de Recursos Humanos",
-         "fechaInicio":"2024-04-01T00:00:00Z",
-         "fechaFin":"2024-10-01T00:00:00Z",
-         "horas":250
+         "service":"Consultoría de Recursos Humanos",
+         "startDate":"2024-04-01T00:00:00Z",
+         "endDate":"2024-10-01T00:00:00Z",
+         "hours":250
       },
       {
          "id":5,
-         "nombreContrato":"Desarrollo de Plataforma E-learning",
-         "fechaInicio":"2024-05-15T00:00:00Z",
-         "fechaFin":"2024-11-15T00:00:00Z",
-         "horas":600
+         "service":"Desarrollo de Plataforma E-learning",
+         "startDate":"2024-05-15T00:00:00Z",
+         "endDate":"2024-11-15T00:00:00Z",
+         "hours":600
       }
    ],
    "users":[
