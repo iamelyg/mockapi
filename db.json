@@ -189,5 +189,42 @@
          "phone":"6506424142",
          "id_company":"01J82TFE9W36B22CQ37Y91CG7S"
       }
+   ],
+   "clients":[
+      {
+         "id":1,
+         "nombreEmpresa":"Tecnología Avanzada S.A.",
+         "nombreCorto":"TechAv",
+         "activo":true,
+         "numeroRUC":"12345678901"
+      },
+      {
+         "id":2,
+         "nombreEmpresa":"Soluciones Informáticas S.R.L.",
+         "nombreCorto":"SolInf",
+         "activo":false,
+         "numeroRUC":"98765432100"
+      },
+      {
+         "id":3,
+         "nombreEmpresa":"Desarrollo de Software Innovador",
+         "nombreCorto":"SoftInn",
+         "activo":true,
+         "numeroRUC":"12312312312"
+      },
+      {
+         "id":4,
+         "nombreEmpresa":"Consultoría Empresarial",
+         "nombreCorto":"ConsEmp",
+         "activo":true,
+         "numeroRUC":"32132132132"
+      },
+      {
+         "id":5,
+         "nombreEmpresa":"E-learning Solutions",
+         "nombreCorto":"Elearn",
+         "activo":false,
+         "numeroRUC":"45645645645"
+      }
    ]
 }
