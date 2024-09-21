@@ -195,30 +195,31 @@
          "taxNumber":"45645645645"
       }
    ],
-   "entityAssignment":{
-      "assigned":[
-         {
-            "id":1,
-            "companyName":"Tecnología Avanzada S.A."
-         },
-         {
-            "id":3,
-            "companyName":"Desarrollo de Software Innovador"
-         }
-      ],
-      "available":[
-         {
-            "id":2,
-            "companyName":"Soluciones Informáticas S.R.L."
-         },
-         {
-            "id":4,
-            "companyName":"Consultoría Empresarial"
-         },
-         {
-            "id":5,
-            "companyName":"E-learning Solutions"
-         }
-      ]
-   }
+   "companies":[
+      {
+         "id":1,
+         "companyName":"Tecnología Avanzada S.A.",
+         "assigned":true
+      },
+      {
+         "id":3,
+         "companyName":"Desarrollo de Software Innovador",
+         "assigned":true
+      },
+      {
+         "id":2,
+         "companyName":"Soluciones Informáticas S.R.L.",
+         "assigned":false
+      },
+      {
+         "id":4,
+         "companyName":"Consultoría Empresarial",
+         "assigned":false
+      },
+      {
+         "id":5,
+         "companyName":"E-learning Solutions",
+         "assigned":false
+      }
+   ]
 }
