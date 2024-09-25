@@ -221,5 +221,61 @@
          "companyName":"E-learning Solutions",
          "assigned":false
       }
+   ],
+   "ticketClassification":[
+      {
+         "id":1,
+         "name":"Soporte Técnico",
+         "priority":{
+            "value":3,
+            "label":"alto"
+         },
+         "isActive":true
+      },
+      {
+         "id":2,
+         "name":"Mantenimiento de Software",
+         "priority":{
+            "value":2,
+            "label":"medio"
+         },
+         "isActive":true
+      },
+      {
+         "id":3,
+         "name":"Actualización de Sistema",
+         "priority":{
+            "value":4,
+            "label":"crítico"
+         },
+         "isActive":false
+      },
+      {
+         "id":4,
+         "name":"Consulta General",
+         "priority":{
+            "value":1,
+            "label":"bajo"
+         },
+         "isActive":true
+      },
+      {
+         "id":5,
+         "name":"Problemas de Conectividad",
+         "priority":{
+            "value":3,
+            "label":"alto"
+         },
+         "isActive":false
+      },
+      {
+         "id":6,
+         "name":"Incidencias en Producción",
+         "priority":{
+            "value":4,
+            "label":"crítico"
+         },
+         "isActive":true
+      }
    ]
 }
