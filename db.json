@@ -243,8 +243,8 @@
             "label":"medio"
          },
          "status":{
-            "value":1,
-            "label":"Activo"
+            "value":3,
+            "label":"Pendiente"
          }
       },
       {
@@ -279,8 +279,8 @@
             "label":"alto"
          },
          "status":{
-            "value":2,
-            "label":"Inactivo"
+            "value":4,
+            "label":"Archivado"
          }
       },
       {
