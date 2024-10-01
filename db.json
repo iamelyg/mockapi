@@ -211,7 +211,7 @@
          "isActive":false,
          "taxNumber":"45645645645",
          "contracts":[
-
+            
          ]
       }
    ],
@@ -245,23 +245,39 @@
    "ticketClassification":[
       {
          "id":1,
-         "label":"Bajo",
-         "value":1
+         "name":"Soporte Técnico",
+         "priority":{
+            "value":3,
+            "label":"alto"
+         },
+         "status":{
+            "value":1,
+            "label":"Activo"
+         }
       },
       {
          "id":2,
-         "label":"Medio",
-         "value":2
+         "name":"Mantenimiento de Software",
+         "priority":{
+            "value":2,
+            "label":"medio"
+         },
+         "status":{
+            "value":3,
+            "label":"Pendiente"
+         }
       },
       {
-         "id":3,
-         "label":"Alto",
-         "value":3
-      },
-      {
-         "id":4,
-         "label":"Crítico",
-         "value":4
+         "id":6,
+         "name":"Incidencias en Producción",
+         "priority":{
+            "value":4,
+            "label":"crítico"
+         },
+         "status":{
+            "value":1,
+            "label":"Activo"
+         }
       }
    ]
 }
