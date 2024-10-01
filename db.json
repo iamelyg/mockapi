@@ -1,41 +1,4 @@
 {
-   "services":[
-      {
-         "id":1,
-         "service":"Desarrollo de Software",
-         "startDate":"2024-01-15T00:00:00Z",
-         "endDate":"2024-12-15T00:00:00Z",
-         "hours":0
-      },
-      {
-         "id":2,
-         "service":"Sistema de Nómina",
-         "startDate":"2024-02-01T00:00:00Z",
-         "endDate":"2024-05-01T00:00:00Z",
-         "hours":300
-      },
-      {
-         "id":3,
-         "service":"Portal de Auto-servicio para Empleados",
-         "startDate":"2024-03-10T00:00:00Z",
-         "endDate":"2024-09-10T00:00:00Z",
-         "hours":400
-      },
-      {
-         "id":4,
-         "service":"Consultoría de Recursos Humanos",
-         "startDate":"2024-04-01T00:00:00Z",
-         "endDate":"2024-10-01T00:00:00Z",
-         "hours":250
-      },
-      {
-         "id":5,
-         "service":"Desarrollo de Plataforma E-learning",
-         "startDate":"2024-05-15T00:00:00Z",
-         "endDate":"2024-11-15T00:00:00Z",
-         "hours":600
-      }
-   ],
    "users":[
       {
          "id":1,
@@ -43,7 +6,6 @@
          "password":"rC9&q'%9*S",
          "name":"Dyann Ravelus",
          "phone":"4878620229",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Recursos Humanos",
          "assignedManager":"Ana Gómez",
          "isActive":true,
@@ -55,7 +17,6 @@
          "password":"xA4#pL&2$W",
          "name":"Michael Johnson",
          "phone":"4878620245",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Finanzas",
          "assignedManager":"Juan Pérez",
          "isActive":true,
@@ -67,7 +28,6 @@
          "password":"qT5#kR(8*H",
          "name":"Jessica Smith",
          "phone":"4878620250",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Operaciones",
          "assignedManager":"Luis Rodríguez",
          "isActive":false,
@@ -79,7 +39,6 @@
          "password":"yR6&jM^1*U",
          "name":"John Doe",
          "phone":"4878620234",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"TI",
          "assignedManager":"Pedro Martínez",
          "isActive":true,
@@ -91,7 +50,6 @@
          "password":"zL2$wN#3*D",
          "name":"Alice Rivera",
          "phone":"4878620211",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Marketing",
          "assignedManager":"Clara Sánchez",
          "isActive":false,
@@ -103,7 +61,6 @@
          "password":"uV3#mX(9*P",
          "name":"Ben Williams",
          "phone":"4878620298",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Logística",
          "assignedManager":"Laura Torres",
          "isActive":true,
@@ -115,7 +72,6 @@
          "password":"oE5&hR(2*K",
          "name":"Jessica White",
          "phone":"4878620277",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Ventas",
          "assignedManager":"Carlos Romero",
          "isActive":true,
@@ -127,7 +83,6 @@
          "password":"lK8%nQ&1#M",
          "name":"Tom Green",
          "phone":"4878620266",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Atención al Cliente",
          "assignedManager":"Sofía García",
          "isActive":false,
@@ -139,7 +94,6 @@
          "password":"mB7*eF$2&T",
          "name":"Carlos García",
          "phone":"4878620289",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Administración",
          "assignedManager":"Gabriel Ruiz",
          "isActive":true,
@@ -151,7 +105,6 @@
          "password":"pN6$wL(4*R",
          "name":"Karen Thompson",
          "phone":"4878620244",
-         "idCompany":"01J82TFE9HZ3J7ENG0PFZ4JMQQ",
          "area":"Compras",
          "assignedManager":"Raúl Fernández",
          "isActive":false,
@@ -258,45 +211,8 @@
          "isActive":false,
          "taxNumber":"45645645645",
          "contracts":[
-            
+
          ]
-      }
-   ],
-   "services":[
-      {
-         "id":1,
-         "service":"Desarrollo de Software",
-         "startDate":"2024-01-15T00:00:00Z",
-         "endDate":"2024-12-15T00:00:00Z",
-         "hours":0
-      },
-      {
-         "id":2,
-         "service":"Sistema de Nómina",
-         "startDate":"2024-02-01T00:00:00Z",
-         "endDate":"2024-05-01T00:00:00Z",
-         "hours":300
-      },
-      {
-         "id":3,
-         "service":"Portal de Auto-servicio para Empleados",
-         "startDate":"2024-03-10T00:00:00Z",
-         "endDate":"2024-09-10T00:00:00Z",
-         "hours":400
-      },
-      {
-         "id":4,
-         "service":"Consultoría de Recursos Humanos",
-         "startDate":"2024-04-01T00:00:00Z",
-         "endDate":"2024-10-01T00:00:00Z",
-         "hours":250
-      },
-      {
-         "id":5,
-         "service":"Desarrollo de Plataforma E-learning",
-         "startDate":"2024-05-15T00:00:00Z",
-         "endDate":"2024-11-15T00:00:00Z",
-         "hours":600
       }
    ],
    "companies":[
@@ -329,75 +245,23 @@
    "ticketClassification":[
       {
          "id":1,
-         "name":"Soporte Técnico",
-         "priority":{
-            "value":3,
-            "label":"alto"
-         },
-         "status":{
-            "value":1,
-            "label":"Activo"
-         }
+         "label":"Bajo",
+         "value":1
       },
       {
          "id":2,
-         "name":"Mantenimiento de Software",
-         "priority":{
-            "value":2,
-            "label":"medio"
-         },
-         "status":{
-            "value":3,
-            "label":"Pendiente"
-         }
+         "label":"Medio",
+         "value":2
       },
       {
          "id":3,
-         "name":"Actualización de Sistema",
-         "priority":{
-            "value":4,
-            "label":"crítico"
-         },
-         "status":{
-            "value":2,
-            "label":"Inactivo"
-         }
+         "label":"Alto",
+         "value":3
       },
       {
          "id":4,
-         "name":"Consulta General",
-         "priority":{
-            "value":1,
-            "label":"bajo"
-         },
-         "status":{
-            "value":1,
-            "label":"Activo"
-         }
-      },
-      {
-         "id":5,
-         "name":"Problemas de Conectividad",
-         "priority":{
-            "value":3,
-            "label":"alto"
-         },
-         "status":{
-            "value":4,
-            "label":"Archivado"
-         }
-      },
-      {
-         "id":6,
-         "name":"Incidencias en Producción",
-         "priority":{
-            "value":4,
-            "label":"crítico"
-         },
-         "status":{
-            "value":1,
-            "label":"Activo"
-         }
+         "label":"Crítico",
+         "value":4
       }
    ]
 }
