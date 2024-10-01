@@ -164,35 +164,139 @@
          "companyName":"Tecnología Avanzada S.A.",
          "shortName":"TechAv",
          "isActive":true,
-         "taxNumber":"12345678901"
+         "taxNumber":"12345678901",
+         "contracts":[
+            {
+               "id":1,
+               "service":"Desarrollo de Software",
+               "startDate":"2024-01-15T00:00:00Z",
+               "endDate":"2024-12-15T00:00:00Z",
+               "hours":0
+            },
+            {
+               "id":3,
+               "service":"Portal de Auto-servicio para Empleados",
+               "startDate":"2024-03-10T00:00:00Z",
+               "endDate":"2024-09-10T00:00:00Z",
+               "hours":400
+            }
+         ]
       },
       {
          "id":2,
          "companyName":"Soluciones Informáticas S.R.L.",
          "shortName":"SolInf",
          "isActive":false,
-         "taxNumber":"98765432100"
+         "taxNumber":"98765432100",
+         "contracts":[
+            {
+               "id":2,
+               "service":"Sistema de Nómina",
+               "startDate":"2024-02-01T00:00:00Z",
+               "endDate":"2024-05-01T00:00:00Z",
+               "hours":300
+            },
+            {
+               "id":4,
+               "service":"Consultoría de Recursos Humanos",
+               "startDate":"2024-04-01T00:00:00Z",
+               "endDate":"2024-10-01T00:00:00Z",
+               "hours":250
+            }
+         ]
       },
       {
          "id":3,
          "companyName":"Desarrollo de Software Innovador",
          "shortName":"SoftInn",
          "isActive":true,
-         "taxNumber":"12312312312"
+         "taxNumber":"12312312312",
+         "contracts":[
+            {
+               "id":1,
+               "service":"Desarrollo de Software",
+               "startDate":"2024-01-15T00:00:00Z",
+               "endDate":"2024-12-15T00:00:00Z",
+               "hours":0
+            },
+            {
+               "id":2,
+               "service":"Sistema de Nómina",
+               "startDate":"2024-02-01T00:00:00Z",
+               "endDate":"2024-05-01T00:00:00Z",
+               "hours":300
+            },
+            {
+               "id":5,
+               "service":"Desarrollo de Plataforma E-learning",
+               "startDate":"2024-05-15T00:00:00Z",
+               "endDate":"2024-11-15T00:00:00Z",
+               "hours":600
+            }
+         ]
       },
       {
          "id":4,
          "companyName":"Consultoría Empresarial",
          "shortName":"ConsEmp",
          "isActive":true,
-         "taxNumber":"32132132132"
+         "taxNumber":"32132132132",
+         "contracts":[
+            {
+               "id":3,
+               "service":"Portal de Auto-servicio para Empleados",
+               "startDate":"2024-03-10T00:00:00Z",
+               "endDate":"2024-09-10T00:00:00Z",
+               "hours":400
+            }
+         ]
       },
       {
          "id":5,
          "companyName":"E-learning Solutions",
          "shortName":"Elearn",
          "isActive":false,
-         "taxNumber":"45645645645"
+         "taxNumber":"45645645645",
+         "contracts":[
+            
+         ]
+      }
+   ],
+   "services":[
+      {
+         "id":1,
+         "service":"Desarrollo de Software",
+         "startDate":"2024-01-15T00:00:00Z",
+         "endDate":"2024-12-15T00:00:00Z",
+         "hours":0
+      },
+      {
+         "id":2,
+         "service":"Sistema de Nómina",
+         "startDate":"2024-02-01T00:00:00Z",
+         "endDate":"2024-05-01T00:00:00Z",
+         "hours":300
+      },
+      {
+         "id":3,
+         "service":"Portal de Auto-servicio para Empleados",
+         "startDate":"2024-03-10T00:00:00Z",
+         "endDate":"2024-09-10T00:00:00Z",
+         "hours":400
+      },
+      {
+         "id":4,
+         "service":"Consultoría de Recursos Humanos",
+         "startDate":"2024-04-01T00:00:00Z",
+         "endDate":"2024-10-01T00:00:00Z",
+         "hours":250
+      },
+      {
+         "id":5,
+         "service":"Desarrollo de Plataforma E-learning",
+         "startDate":"2024-05-15T00:00:00Z",
+         "endDate":"2024-11-15T00:00:00Z",
+         "hours":600
       }
    ],
    "companies":[
