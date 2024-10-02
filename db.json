@@ -51,7 +51,7 @@
          "companyName":"AgroTec S.A.",
          "shortName":"AgroTec",
          "isActive":true,
-         "taxNumber":"12345678901",
+         "ruc":"12345678901",
          "contracts":[
             {
                "id":1,
@@ -74,7 +74,7 @@
          "companyName":"EnergiSur",
          "shortName":"EnerSur",
          "isActive":false,
-         "taxNumber":"23456789012",
+         "ruc":"23456789012",
          "contracts":[
             {
                "id":2,
@@ -97,8 +97,7 @@
          "companyName":"FabriMec S.A.",
          "shortName":"FabriMec",
          "isActive":true,
-          "assigned":true,
-         "taxNumber":"34567890123",
+         "ruc":"34567890123",
          "contracts":[
             {
                "id":1,
@@ -128,7 +127,7 @@
          "companyName":"ConsulFin",
          "shortName":"ConsFin",
          "isActive":true,
-         "taxNumber":"45678901234",
+         "ruc":"45678901234",
          "contracts":[
             {
                "id":3,
@@ -144,7 +143,7 @@
          "companyName":"MedioCom S.A.",
          "shortName":"MedCom",
          "isActive":false,
-         "taxNumber":"56789012345",
+         "ruc":"56789012345",
          "contracts":[
             
          ]
