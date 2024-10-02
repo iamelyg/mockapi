@@ -1,5 +1,17 @@
 {
-   "users":[      {
+   "users":[
+      {
+         "id":1,
+         "email":"mhernandez0@dagondesign.com",
+         "password":"rC9&q'%9*S",
+         "name":"María Hernández",
+         "phone":"4878620229",
+         "area":"Recursos Humanos",
+         "assignedManager":"Ana Gómez",
+         "isActive":true,
+         "userType":"gestor"
+      },
+      {
          "id":2,
          "email":"jmartinez1@companymail.com",
          "password":"xA4#pL&2$W",
@@ -47,8 +59,8 @@
    "clients":[
       {
          "id":1,
-         "companyName":"Tecnología Avanzada S.A.",
-         "shortName":"TechAv",
+         "companyName":"AgroTec S.A.",
+         "shortName":"AgroTec",
          "isActive":true,
          "taxNumber":"12345678901",
          "contracts":[
@@ -70,10 +82,10 @@
       },
       {
          "id":2,
-         "companyName":"Soluciones Informáticas S.R.L.",
-         "shortName":"SolInf",
+         "companyName":"EnergiSur",
+         "shortName":"EnerSur",
          "isActive":false,
-         "taxNumber":"98765432100",
+         "taxNumber":"23456789012",
          "contracts":[
             {
                "id":2,
@@ -93,10 +105,10 @@
       },
       {
          "id":3,
-         "companyName":"Desarrollo de Software Innovador",
-         "shortName":"SoftInn",
+         "companyName":"FabriMec S.A.",
+         "shortName":"FabriMec",
          "isActive":true,
-         "taxNumber":"12312312312",
+         "taxNumber":"34567890123",
          "contracts":[
             {
                "id":1,
@@ -123,10 +135,10 @@
       },
       {
          "id":4,
-         "companyName":"Consultoría Empresarial",
-         "shortName":"ConsEmp",
+         "companyName":"ConsulFin",
+         "shortName":"ConsFin",
          "isActive":true,
-         "taxNumber":"32132132132",
+         "taxNumber":"45678901234",
          "contracts":[
             {
                "id":3,
@@ -139,10 +151,10 @@
       },
       {
          "id":5,
-         "companyName":"E-learning Solutions",
-         "shortName":"Elearn",
+         "companyName":"MedioCom S.A.",
+         "shortName":"MedCom",
          "isActive":false,
-         "taxNumber":"45645645645",
+         "taxNumber":"56789012345",
          "contracts":[
             
          ]
