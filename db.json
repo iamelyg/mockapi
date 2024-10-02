@@ -1,17 +1,6 @@
 {
    "users":[
       {
-         "id":1,
-         "email":"mhernandez0@dagondesign.com",
-         "password":"rC9&q'%9*S",
-         "name":"María Hernández",
-         "phone":"4878620229",
-         "area":"Recursos Humanos",
-         "assignedManager":"Ana Gómez",
-         "isActive":true,
-         "userType":"gestor"
-      },
-      {
          "id":2,
          "email":"jmartinez1@companymail.com",
          "password":"xA4#pL&2$W",
@@ -163,28 +152,27 @@
    "companies":[
       {
          "id":1,
-         "companyName":"Tecnología Avanzada S.A.",
-         "assigned":true
-      },
-      {
-         "id":3,
-         "companyName":"Desarrollo de Software Innovador",
-         "assigned":true
+         "companyName":"RecursHR S.A.",
+         "assigned":true,
+         "ruc":"20123456789"
       },
       {
          "id":2,
-         "companyName":"Soluciones Informáticas S.R.L.",
-         "assigned":false
+         "companyName":"HRSoluc S.R.L.",
+         "assigned":false,
+         "ruc":"20234567890"
+      },
+      {
+         "id":3,
+         "companyName":"Softhum S.A.",
+         "assigned":true,
+         "ruc":"20345678901"
       },
       {
          "id":4,
-         "companyName":"Consultoría Empresarial",
-         "assigned":false
-      },
-      {
-         "id":5,
-         "companyName":"E-learning Solutions",
-         "assigned":false
+         "companyName":"Humansys S.A.",
+         "assigned":false,
+         "ruc":"20456789012"
       }
    ],
    "ticketClassification":[
