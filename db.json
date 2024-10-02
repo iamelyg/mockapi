@@ -1,17 +1,5 @@
 {
-   "users":[
-      {
-         "id":1,
-         "email":"mhernandez0@dagondesign.com",
-         "password":"rC9&q'%9*S",
-         "name":"María Hernández",
-         "phone":"4878620229",
-         "area":"Recursos Humanos",
-         "assignedManager":"Ana Gómez",
-         "isActive":true,
-         "userType":"gestor"
-      },
-      {
+   "users":[      {
          "id":2,
          "email":"jmartinez1@companymail.com",
          "password":"xA4#pL&2$W",
