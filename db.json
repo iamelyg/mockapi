@@ -2,9 +2,9 @@
    "users":[
       {
          "id":1,
-         "email":"dravelus0@dagondesign.com",
+         "email":"mhernandez0@dagondesign.com",
          "password":"rC9&q'%9*S",
-         "name":"Dyann Ravelus",
+         "name":"María Hernández",
          "phone":"4878620229",
          "area":"Recursos Humanos",
          "assignedManager":"Ana Gómez",
@@ -13,9 +13,9 @@
       },
       {
          "id":2,
-         "email":"mjohnson1@companymail.com",
+         "email":"jmartinez1@companymail.com",
          "password":"xA4#pL&2$W",
-         "name":"Michael Johnson",
+         "name":"José Martínez",
          "phone":"4878620245",
          "area":"Finanzas",
          "assignedManager":"Juan Pérez",
@@ -23,21 +23,10 @@
          "userType":"control"
       },
       {
-         "id":3,
-         "email":"jsmith2@companymail.com",
-         "password":"qT5#kR(8*H",
-         "name":"Jessica Smith",
-         "phone":"4878620250",
-         "area":"Operaciones",
-         "assignedManager":"Luis Rodríguez",
-         "isActive":false,
-         "userType":"operador"
-      },
-      {
          "id":4,
-         "email":"jdoe3@companymail.com",
+         "email":"jdiaz3@companymail.com",
          "password":"yR6&jM^1*U",
-         "name":"John Doe",
+         "name":"Jorge Díaz",
          "phone":"4878620234",
          "area":"TI",
          "assignedManager":"Pedro Martínez",
@@ -46,9 +35,9 @@
       },
       {
          "id":5,
-         "email":"arivera4@companymail.com",
+         "email":"lrivera4@companymail.com",
          "password":"zL2$wN#3*D",
-         "name":"Alice Rivera",
+         "name":"Lucía Rivera",
          "phone":"4878620211",
          "area":"Marketing",
          "assignedManager":"Clara Sánchez",
@@ -57,58 +46,14 @@
       },
       {
          "id":6,
-         "email":"bwilliams5@companymail.com",
+         "email":"framos5@companymail.com",
          "password":"uV3#mX(9*P",
-         "name":"Ben Williams",
+         "name":"Francisco Ramos",
          "phone":"4878620298",
          "area":"Logística",
          "assignedManager":"Laura Torres",
          "isActive":true,
          "userType":"operador"
-      },
-      {
-         "id":7,
-         "email":"jwhite6@companymail.com",
-         "password":"oE5&hR(2*K",
-         "name":"Jessica White",
-         "phone":"4878620277",
-         "area":"Ventas",
-         "assignedManager":"Carlos Romero",
-         "isActive":true,
-         "userType":"gestor"
-      },
-      {
-         "id":8,
-         "email":"tgreen7@companymail.com",
-         "password":"lK8%nQ&1#M",
-         "name":"Tom Green",
-         "phone":"4878620266",
-         "area":"Atención al Cliente",
-         "assignedManager":"Sofía García",
-         "isActive":false,
-         "userType":"control"
-      },
-      {
-         "id":9,
-         "email":"cgarcia8@companymail.com",
-         "password":"mB7*eF$2&T",
-         "name":"Carlos García",
-         "phone":"4878620289",
-         "area":"Administración",
-         "assignedManager":"Gabriel Ruiz",
-         "isActive":true,
-         "userType":"operador"
-      },
-      {
-         "id":10,
-         "email":"kthompson9@companymail.com",
-         "password":"pN6$wL(4*R",
-         "name":"Karen Thompson",
-         "phone":"4878620244",
-         "area":"Compras",
-         "assignedManager":"Raúl Fernández",
-         "isActive":false,
-         "userType":"gestor"
       }
    ],
    "clients":[
