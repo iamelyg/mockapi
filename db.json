@@ -97,6 +97,7 @@
          "companyName":"FabriMec S.A.",
          "shortName":"FabriMec",
          "isActive":true,
+             "assigned":true,
          "ruc":"34567890123",
          "contracts":[
             {
